@@ -1,6 +1,9 @@
  Name: AUGUSTINE J
+ 
 Register No: 212222240015
+
 Experiment 2
+
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
